@@ -1,0 +1,16 @@
+---
+title: Mugshot / Docs
+---
+- [..](..)
+- [mugshot-capture-dialog.png](mugshot-capture-dialog.png)
+- [mugshot-file-dialog.png](mugshot-file-dialog.png)
+- [mugshot-main-2.png](mugshot-main-2.png)
+- [mugshot-main.png](mugshot-main.png)
+- [mugshot-menu.png](mugshot-menu.png)
+- [mugshot-password-prompt.png](mugshot-password-prompt.png)
+- [mugshot-personal-details.png](mugshot-personal-details.png)
+- [mugshot-photo-option-camera.png](mugshot-photo-option-camera.png)
+- [mugshot-photo-option-file.png](mugshot-photo-option-file.png)
+- [mugshot-photo-option-stock.png](mugshot-photo-option-stock.png)
+- [mugshot-photo-select.png](mugshot-photo-select.png)
+- [mugshot-window.png](mugshot-window.png)
