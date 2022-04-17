@@ -22,7 +22,7 @@ title: screenshots.bluesabre.org
 email: sean@bluesabre.org
 description: >- # this means to ignore newlines until "baseurl:"
   Screenshots of various Xfce and Xubuntu applications.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/screenshots" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bluesabredavis
 github_username:  bluesabre
